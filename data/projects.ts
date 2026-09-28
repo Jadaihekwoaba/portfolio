@@ -22,6 +22,6 @@ export const projects: Project[] = [
   image: "/quiz.png",
   tags: ["Flutter", "Dart"],
   href: "",
-  repo: "",
+  repo: "https://github.com/Jadaihekwoaba/quiz",
 }
 ];

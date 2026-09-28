@@ -1,7 +1,7 @@
 const links = [
   { label: "Email", href: "mailto:jadaihekwoaba@gmail.com" },
   { label: "GitHub", href: "https://github.com/Jadaihekwoaba" },
-  { label: "LinkedIn", href: "http://www.linkedin.com/in/jada-ihekwoaba" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/jada-ihekwoaba" },
 ];
 
 export default function Contact() {
